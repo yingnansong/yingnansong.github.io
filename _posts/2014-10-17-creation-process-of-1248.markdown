@@ -18,7 +18,7 @@ When I started creating my own version of <2048> - <1248>, I kept the following 
 - The basic gameplay resembles <2048>.
 - Make it easier to win.
 - Add a blocker to make it more challenging.
-- The player should be able play and chase for more scores for ever as long as he/she wants.
+- The player should be able to play and pursuit more scores as long as he/she wants.
 - Enhance user experience by paying attention to details.
 
 I did these modifications to the original design of <2048>:
