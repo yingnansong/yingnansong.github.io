@@ -15,3 +15,5 @@ To be more precise, there will be following things on this site:
 
 Hope you can enjoy my games as well as my posts :)
 
+-.-.  ---  -.  -  .-  -.-.  -   ...  -.--  -.  --.  ---  -..  .----  ..---  ...--  ....-  .....   .-  -   --.  --  .-  ..  .-..  .-.-.-  -.-.  ---  --   ..-.  ---  .-.   .---  ---  -...   ---  .--.  .--.  ---  .-.  -  ..-  -.  ..  -  ..  .  ...
+
